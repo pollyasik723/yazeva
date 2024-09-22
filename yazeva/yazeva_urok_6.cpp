@@ -48,7 +48,7 @@ int main()
     cout << "true =  " << (y == c || c == u) << endl;
     cout << "false =  " << (y == j || l == x) << endl;
 
-    cout << "true =  " << (!x != 0) << endl;
-    cout << "false =  " << (!c == y) << endl;
+    cout << "true =  " << (u != 0) << endl;
+    cout << "false =  " << (c == y) << endl;
 }
 
